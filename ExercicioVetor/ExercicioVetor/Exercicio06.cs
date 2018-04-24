@@ -9,7 +9,7 @@ namespace ExercicioVetor
     {
         public Exercicio06()
         {
-            int[] idades = new int[16];
+            int[] idades = new int[9];
             int maioridade = 0;
             Console.Write("Digite uma idade: ");
             idades[0] = Convert.ToInt32(Console.ReadLine());

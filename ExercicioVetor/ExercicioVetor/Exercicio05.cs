@@ -9,7 +9,7 @@ namespace ExercicioVetor
     { 
         public Exercicio05()
         {
-            double[] pesos = new double[16];
+            double[] pesos = new double[5];
 
             Console.Write("Digite um peso: ");
             pesos[0] = Convert.ToDouble(Console.ReadLine());
