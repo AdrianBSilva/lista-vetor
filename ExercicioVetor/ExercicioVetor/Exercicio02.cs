@@ -59,6 +59,8 @@ namespace ExercicioVetor
             Console.Write("Digite um nome: ");
             nomes[9] = (Console.ReadLine());
 
+            Console.Clear();
+
             Console.WriteLine("Primeiro nome: " + nomes[0]);
 
             Console.WriteLine("Segundo nome: " + nomes[1]);
